@@ -10,3 +10,7 @@ This is my project repository for making the 'Data Visualization' project from <
 * Graphing rolling a die 1000 times in Plotly and getting frequency of numbers
 * Graphing rolling two dice 1000 times in Plotly and getting frequency of values
 * Graphing rolling two different dice 50,000 times in Plotly and getting frequency of values
+* Graphing High Temperatures in Sitka
+* Graphing High and Low Temperatures in Sitka
+* Graphing High and Low Temperatures in Death Valley
+* Error Checking for missing values with try-except-else
