@@ -14,3 +14,6 @@ This is my project repository for making the 'Data Visualization' project from <
 * Graphing High and Low Temperatures in Sitka
 * Graphing High and Low Temperatures in Death Valley
 * Error Checking for missing values with try-except-else
+* Extracting JSON data and making a more human readable file.
+* Using JSON map data and Plotly's scattergeo to map geological earthquake data.
+* Customizing Plotly's scattergeo style to be easier to read and provide more information.
