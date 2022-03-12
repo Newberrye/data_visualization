@@ -1,5 +1,11 @@
-# Data Visualization
+# Data Visualization - Completed
 This is my project repository for making the 'Data Visualization' project from <em>Python Crash Course 2nd edition</em> by Eric Matthes.
+
+## Summary of Sections
+* Creating and graphing random generated data in Python with Matplotlib and Plotly.
+* Graphing and styling graphs of real world temperature CSV data.
+* Graphing and styling geological JSON data.
+* Using API requests to Github and HackerNews to create JSON data
 
 ## Completed sections
 * Installing Matplotlib and plotly
@@ -17,3 +23,7 @@ This is my project repository for making the 'Data Visualization' project from <
 * Extracting JSON data and making a more human readable file.
 * Using JSON map data and Plotly's scattergeo to map geological earthquake data.
 * Customizing Plotly's scattergeo style to be easier to read and provide more information.
+* Discovering Github's top Python repositories by sending API requests.
+* Formatting the requested data to JSON, organizing the data for Plotly, and using Plotly to graph said repositories.
+* Using an API request to discover HackerNews JSON organization.
+* Using API requests to gain data about top articles and printing said data.
